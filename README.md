@@ -2,9 +2,7 @@
 
 A machine learning–powered web application built using **Python** and **Streamlit** to analyze historical stock data and predict future stock prices using deep learning models.
 
----
-
-### 🔴 Live Demo Link :https://stock-market-price-predictor-kjlxevyttayycuhbcrukh7.streamlit.app/
+#### 🔴 Live Demo Link :https://stock-market-price-predictor-kjlxevyttayycuhbcrukh7.streamlit.app/
 ---
 
 ## 📖 About The Project
