@@ -66,3 +66,9 @@ Historical dataset with Open, High, Low, Close, Volume.
 
 ## 📂 Project Structure
 
+Stock-Predictor/
+│── model.h5 # Trained LSTM model
+│── app.py # Streamlit application
+│── train_model.ipynb # Notebook used for model training
+│── requirements.txt # Python dependencies
+│── README.md # Project documentation
