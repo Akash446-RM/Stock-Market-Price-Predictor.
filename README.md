@@ -75,10 +75,35 @@ Historical dataset with Open, High, Low, Close, Volume.
 
 ## 🛠️ How to Run
 
-### Clone the repository:
-```bash
-git clone https://github.com/your-username/Stock-Predictor.git
-cd Stock-Predictor
-### Create and activate a virtual environment:
-python -m venv .venv
-.venv\Scripts\activate
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/Akash446-RM/Stock-Market-Price-Predictor./edit/main/README.md
+    ```
+
+2. **Create and activate a virtual environment:**
+
+    ```bash
+    python -m venv .venv
+    # On Windows: .venv\Scripts\activate
+    # On Mac/Linux: source .venv/bin/activate
+    ```
+
+3. **Install the dependencies:**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. **Ensure your trained model file is added:**
+
+    Make sure the `model.h5` file is placed inside the project folder.
+
+5. **Run the Streamlit app:**
+
+    ```bash
+    streamlit run app.py
+    ```
+
+
+
