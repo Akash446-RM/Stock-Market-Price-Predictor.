@@ -104,6 +104,21 @@ Historical dataset with Open, High, Low, Close, Volume.
     ```bash
     streamlit run app.py
     ```
+## 💡 Insights and Learnings
+
+- **Time-Series Modeling:** Learned how LSTM networks process sequential stock market data and why they are effective for predicting future prices.
+- **Data Preprocessing:** Gained experience in scaling data, creating windowed sequences, and preparing inputs for deep learning.
+- **Visualization:** Understood the importance of charts like moving averages and prediction curves for interpreting trends.
+- **Deployment:** Learned how to deploy a machine learning model using Streamlit for public access.
+
+---
+
+## 🚀 Future Improvements
+
+- **Advanced Indicators:** Add technical indicators such as RSI, MACD, and Bollinger Bands.
+- **Multi-Stock Comparison:** Enable comparisons between multiple stocks within the dashboard.
+- **Custom Prediction Range:** Allow users to select prediction lengths (7 days, 14 days, 30 days).
+- **Alert System:** Implement price alerts via email or notifications.
 
 
 
