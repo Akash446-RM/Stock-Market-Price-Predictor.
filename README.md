@@ -4,7 +4,7 @@ A machine learning–powered web application built using **Python** and **Stream
 
 ---
 
-## 🔴 Live Demo Link :https://stock-market-price-predictor-kjlxevyttayycuhbcrukh7.streamlit.app/
+### 🔴 Live Demo Link :https://stock-market-price-predictor-kjlxevyttayycuhbcrukh7.streamlit.app/
 ---
 
 ## 📖 About The Project
