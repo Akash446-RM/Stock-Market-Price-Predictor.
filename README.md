@@ -66,9 +66,9 @@ Historical dataset with Open, High, Low, Close, Volume.
 
 ## 📂 Project Structure
 
-Stock-Predictor/
-model.h5: Trained LSTM model file.
-app.py: Main Streamlit application script.
-train_model.ipynb: Jupyter notebook used for training the prediction model.
-requirements.txt: List of required Python libraries.
-README.md: Complete project documentation.
+- **Stock-Predictor/**
+  - **model.h5** : Trained LSTM model file.
+  - **app.py** : Main Python script for the Streamlit application.
+  - **train_model.ipynb** : Jupyter notebook used for model training.
+  - **requirements.txt** : List of required Python dependencies.
+  - **README.md** : Project documentation file.
