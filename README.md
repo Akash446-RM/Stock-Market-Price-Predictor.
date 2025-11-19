@@ -72,3 +72,13 @@ Historical dataset with Open, High, Low, Close, Volume.
   - **train_model.ipynb** : Jupyter notebook used for model training.
   - **requirements.txt** : List of required Python dependencies.
   - **README.md** : Project documentation file.
+
+## 🛠️ How to Run
+
+### Clone the repository:
+```bash
+git clone https://github.com/your-username/Stock-Predictor.git
+cd Stock-Predictor
+### Create and activate a virtual environment:
+python -m venv .venv
+.venv\Scripts\activate
